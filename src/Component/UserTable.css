@@ -1,0 +1,24 @@
+.user-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .user-table th, .user-table td {
+    border: 1px solid white;
+    padding: 8px;
+  }
+  
+  .user-table th {
+    background-color: #222;
+    color: white;
+  }
+  
+  .user-table .cell {
+    background-color: #333;
+    color: white;
+  }
+  
+  .user-table tr:hover {
+    background-color: #444;
+  }
+  
